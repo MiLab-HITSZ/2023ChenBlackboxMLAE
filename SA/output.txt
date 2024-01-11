@@ -1,0 +1,4 @@
+/home/czj/jjr/square-attack-master/engine.py:144: UserWarning: volatile was removed and now has no effect. Use `with torch.no_grad():` instead.
+  feature_var.volatile = True
+/home/czj/jjr/square-attack-master/engine.py:146: UserWarning: volatile was removed and now has no effect. Use `with torch.no_grad():` instead.
+  inp_var.volatile = True

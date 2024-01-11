@@ -1,0 +1,15 @@
+.DS_Store
+
+# data files
+VOC_2007
+VOC_2012
+
+
+# model files
+models
+
+
+# compiled python files
+*.pyc
+
+.idea/
